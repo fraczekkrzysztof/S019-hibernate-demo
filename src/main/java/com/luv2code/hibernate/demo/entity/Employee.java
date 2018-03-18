@@ -12,6 +12,7 @@ import javax.persistence.Table;
 public class Employee {
 	//dodaje ten komentarz aby sprawdzi√¶ czy git za≥apie
 	//ten komentarz dodaje w gita aby sprawdzic pull
+	//dodane w brunchu testowymaas
 	@Id
 	@Column(name="id")
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
