@@ -10,6 +10,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="employee")
 public class Employee {
+	//dodaje ten komentarz aby sprawdziæ czy git za³apie
 	
 	@Id
 	@Column(name="id")
